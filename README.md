@@ -27,6 +27,11 @@ This project implements two approaches:
 This project uses the **Credit Card Fraud Detection dataset from Kaggle (creditcard.csv)**.
 The dataset contains anonymized transaction features and a binary target label indicating whether a transaction is fraudulent.
 
+Dataset Source:
+
+The dataset used in this project is the Credit Card Fraud Detection dataset from Kaggle: 
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## Preprocessing Steps
